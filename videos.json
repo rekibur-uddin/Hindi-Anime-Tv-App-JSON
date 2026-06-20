@@ -1,14 +1,29 @@
 {
-  "hindi_latest_anime": [
+  "hindi_anime": [
+    {
+      "title": "Dr. STONE SCIENCE FUTURE (Cour 3) - Hindi Dub Episode 1",
+      "publisher": "Crunchyroll India",
+      "videoUrl": "https://www.youtube.com/watch?v=7VguP5nUk2E"
+    },
+    {
+      "title": "Re:ZERO -Starting Life in Another World- Season 4 - Official Hindi Dub",
+      "publisher": "Crunchyroll India",
+      "videoUrl": "https://www.youtube.com/watch?v=VmT1r4Q0kXo"
+    },
+    {
+      "title": "That Time I Got Reincarnated as a Slime Season 4 - Hindi Episode 1",
+      "publisher": "Crunchyroll India",
+      "videoUrl": "https://www.youtube.com/watch?v=uhsQq1jT6c4"
+    },
     {
       "title": "Naruto - Hindi Episode 1",
       "publisher": "Anime Hindi Dub",
       "videoUrl": "https://youtu.be/QlOLXrEjki0?si=yK-6v8HKQPa3bihh"
     },
     {
-      "title": "Watch Sky News Live Test",
-      "publisher": "Sky News",
-      "videoUrl": "https://www.youtube.com/watch?v=YDvsBbKfLPA"
+      "title": "Demon Slayer: Mugen Train - Hindi Dub",
+      "publisher": "Crunchyroll India",
+      "videoUrl": "https://www.youtube.com/watch?v=v=dQw4w9WgXcQ"
     },
     {
       "title": "One Piece - Hindi Clip",
@@ -20,53 +35,53 @@
       "publisher": "Anime Hindi Dub",
       "videoUrl": "https://youtu.be/Qe9W3e3lETE?si=G1oMt9zwV1kJLCw_"
     },
-     {
-      "title": "Naruto - Hindi Episode 1",
-      "publisher": "Anime Hindi Dub",
-      "videoUrl": "https://youtu.be/QlOLXrEjki0?si=yK-6v8HKQPa3bihh"
-    },
     {
-      "title": "One Piece - Hindi Clip",
-      "publisher": "Anime Hindi Dub",
-      "videoUrl": "https://youtu.be/QlOLXrEjki0?si=yK-6v8HKQPa3bihh"
-    },
-    {
-      "title": "Dragon Ball Z - Hindi Episode",
-      "publisher": "Anime Hindi Dub",
-      "videoUrl": "https://youtu.be/Qe9W3e3lETE?si=G1oMt9zwV1kJLCw_"
+      "title": "Jujutsu Kaisen Season 2 - Official Hindi Trailer",
+      "publisher": "Crunchyroll India",
+      "videoUrl": "https://www.youtube.com/watch?v=7VguP5nUk2E"
     }
   ],
 
-  "hindi_dubbed_anime": [
+  "english_anime": [
     {
-      "title": "Naruto - English Episode 1",
-      "publisher": "Crunchyroll Collection",
+      "title": "Spy x Family - Season 1 Full Hindi Dub",
+      "publisher": "Crunchyroll India",
+      "videoUrl": "https://www.youtube.com/watch?v=I52wkbYzyfY"
+    },
+    {
+      "title": "Blue Lock - Season 1 Official Hindi Dub",
+      "publisher": "Crunchyroll India",
+      "videoUrl": "https://www.youtube.com/watch?v=8pF5xKqVu84"
+    },
+    {
+      "title": "Tamon's B-Side - Episode 1 Hindi Dub",
+      "publisher": "Ani-One India",
+      "videoUrl": "https://www.youtube.com/watch?v=zq_6LNzV4SQ"
+    },
+    {
+      "title": "Chained Soldier - Hindi Dub Special",
+      "publisher": "Anime Times India",
+      "videoUrl": "https://www.youtube.com/watch?v=y6t6oAZlOQs"
+    },
+    {
+      "title": "Naruto - Hindi Dubbed Full Episode 1",
+      "publisher": "Sony YAY",
       "videoUrl": "https://youtu.be/Qe9W3e3lETE?si=G1oMt9zwV1kJLCw_"
     },
     {
-      "title": "One Piece - English Clip",
-      "publisher": "Crunchyroll Collection",
+      "title": "One Piece - Wano Arc Hindi Clip",
+      "publisher": "Crunchyroll India",
       "videoUrl": "https://youtu.be/wK75QZSImkY?si=8J04Mcievq-IV2sv"
     },
     {
-      "title": "Attack on Titan - English Clip",
-      "publisher": "Crunchyroll Collection",
+      "title": "Attack on Titan - Hindi Dubbed Highlights",
+      "publisher": "Crunchyroll India",
       "videoUrl": "https://youtu.be/wK75QZSImkY?si=8J04Mcievq-IV2sv"
     },
-     {
-      "title": "Naruto - Hindi Episode 1",
-      "publisher": "Anime Hindi Dub",
-      "videoUrl": "https://youtu.be/QlOLXrEjki0?si=yK-6v8HKQPa3bihh"
-    },
     {
-      "title": "One Piece - Hindi Clip",
-      "publisher": "Anime Hindi Dub",
+      "title": "My Hero Academia - Season 1 Hindi Dub",
+      "publisher": "Cartoon Network India",
       "videoUrl": "https://youtu.be/QlOLXrEjki0?si=yK-6v8HKQPa3bihh"
-    },
-    {
-      "title": "Dragon Ball Z - Hindi Episode",
-      "publisher": "Anime Hindi Dub",
-      "videoUrl": "https://youtu.be/Qe9W3e3lETE?si=G1oMt9zwV1kJLCw_"
     }
   ],
 
@@ -82,28 +97,13 @@
       "videoUrl": "https://youtu.be/QlOLXrEjki0?si=yK-6v8HKQPa3bihh"
     },
     {
-      "title": "Naruto EP1 - Part C",
-      "publisher": "Anime Series",
-      "videoUrl": "https://youtu.be/QlOLXrEjki0?si=yK-6v8HKQPa3bihh"
-    },
-    {
-      "title": "Naruto EP1 - Part D",
-      "publisher": "Anime Series",
-      "videoUrl": "https://youtu.be/QlOLXrEjki0?si=yK-6v8HKQPa3bihh"
-    },
-     {
-      "title": "Naruto - Hindi Episode 1",
+      "title": "Black Clover EP1 - Hindi Dubbed Part A",
       "publisher": "Anime Hindi Dub",
       "videoUrl": "https://youtu.be/QlOLXrEjki0?si=yK-6v8HKQPa3bihh"
     },
     {
-      "title": "One Piece - Hindi Clip",
-      "publisher": "Anime Hindi Dub",
-      "videoUrl": "https://youtu.be/QlOLXrEjki0?si=yK-6v8HKQPa3bihh"
-    },
-    {
-      "title": "Dragon Ball Z - Hindi Episode",
-      "publisher": "Anime Hindi Dub",
+      "title": "Chainsaw Man EP1 - Official Hindi Dub",
+      "publisher": "Crunchyroll India",
       "videoUrl": "https://youtu.be/Qe9W3e3lETE?si=G1oMt9zwV1kJLCw_"
     }
   ],
@@ -120,39 +120,14 @@
       "videoUrl": "https://www.youtube.com/watch?v=I52wkbYzyfY"
     },
     {
-      "title": "Naruto EP2 - Part C",
-      "publisher": "Anime Series",
+      "title": "Demon Slayer EP2 - Hindi Dubbed Part A",
+      "publisher": "Anime Hindi Dub",
       "videoUrl": "https://www.youtube.com/watch?v=y6t6oAZlOQs"
     },
     {
-      "title": "Naruto EP2 - Part D",
-      "publisher": "Anime Series",
+      "title": "Jujutsu Kaisen EP2 - Hindi Dubbed Part B",
+      "publisher": "Anime Hindi Dub",
       "videoUrl": "https://www.youtube.com/watch?v=7VguP5nUk2E"
-    },
-     {
-      "title": "Naruto - Hindi Episode 1",
-      "publisher": "Anime Hindi Dub",
-      "videoUrl": "https://youtu.be/QlOLXrEjki0?si=yK-6v8HKQPa3bihh"
-    },
-    {
-      "title": "One Piece - Hindi Clip",
-      "publisher": "Anime Hindi Dub",
-      "videoUrl": "https://youtu.be/QlOLXrEjki0?si=yK-6v8HKQPa3bihh"
-    },
-    {
-      "title": "Dragon Ball Z - Hindi Episode",
-      "publisher": "Anime Hindi Dub",
-      "videoUrl": "https://youtu.be/Qe9W3e3lETE?si=G1oMt9zwV1kJLCw_"
-    },
-    {
-      "title": "One Piece - Hindi Clip",
-      "publisher": "Anime Hindi Dub",
-      "videoUrl": "https://youtu.be/QlOLXrEjki0?si=yK-6v8HKQPa3bihh"
-    },
-    {
-      "title": "Dragon Ball Z - Hindi Episode",
-      "publisher": "Anime Hindi Dub",
-      "videoUrl": "https://youtu.be/Qe9W3e3lETE?si=G1oMt9zwV1kJLCw_"
     }
   ],
 
@@ -168,24 +143,60 @@
       "videoUrl": "https://www.youtube.com/watch?v=tYhM2nP_3yE"
     },
     {
-      "title": "Naruto EP3 - Part C",
-      "publisher": "Anime Series",
+      "title": "Dragon Ball Super EP3 - Hindi Dubbed",
+      "publisher": "Anime Hindi Dub",
       "videoUrl": "https://www.youtube.com/watch?v=8pF5xKqVu84"
     },
     {
-      "title": "Naruto EP3 - Part D",
-      "publisher": "Anime Series",
-      "videoUrl": "https://www.youtube.com/watch?v=2r7iQX9Nf6o"
-    },
-     {
-      "title": "Naruto - Hindi Episode 1",
+      "title": "One Piece EP3 - Hindi Dubbed Part A",
       "publisher": "Anime Hindi Dub",
-      "videoUrl": "https://youtu.be/QlOLXrEjki0?si=yK-6v8HKQPa3bihh"
+      "videoUrl": "https://www.youtube.com/watch?v=2r7iQX9Nf6o"
+    }
+  ],
+
+  "episode_4": [
+    {
+      "title": "Naruto EP4 - Full Episode Hindi",
+      "publisher": "Anime Series",
+      "videoUrl": "https://www.youtube.com/watch?v=uhsQq1jT6c4"
     },
     {
-      "title": "Dragon Ball Z - Hindi Episode",
+      "title": "Solo Leveling EP4 - Hindi Dubbed",
+      "publisher": "Crunchyroll India",
+      "videoUrl": "https://www.youtube.com/watch?v=I52wkbYzyfY"
+    },
+    {
+      "title": "Kaiju No. 8 EP4 - Hindi Dubbed",
+      "publisher": "Crunchyroll India",
+      "videoUrl": "https://www.youtube.com/watch?v=VmT1r4Q0kXo"
+    },
+    {
+      "title": "My Hero Academia EP4 - Hindi Dub Part A",
       "publisher": "Anime Hindi Dub",
-      "videoUrl": "https://youtu.be/Qe9W3e3lETE?si=G1oMt9zwV1kJLCw_"
+      "videoUrl": "https://www.youtube.com/watch?v=y6t6oAZlOQs"
+    }
+  ],
+
+  "episode_5": [
+    {
+      "title": "Naruto EP5 - Full Episode Hindi",
+      "publisher": "Anime Series",
+      "videoUrl": "https://www.youtube.com/watch?v=7VguP5nUk2E"
+    },
+    {
+      "title": "Demon Slayer EP5 - Hindi Dubbed",
+      "publisher": "Anime Hindi Dub",
+      "videoUrl": "https://www.youtube.com/watch?v=8pF5xKqVu84"
+    },
+    {
+      "title": "Bleach: Thousand-Year Blood War EP5 - Hindi Dub",
+      "publisher": "Crunchyroll India",
+      "videoUrl": "https://www.youtube.com/watch?v=2r7iQX9Nf6o"
+    },
+    {
+      "title": "Jujutsu Kaisen EP5 - Hindi Dubbed Part A",
+      "publisher": "Anime Hindi Dub",
+      "videoUrl": "https://www.youtube.com/watch?v=tYhM2nP_3yE"
     }
   ]
 }
